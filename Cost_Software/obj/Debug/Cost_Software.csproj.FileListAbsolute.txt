@@ -1,0 +1,14 @@
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\Cost_Software.exe.config
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\Cost_Software.exe
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\Cost_Software.pdb
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.csproj.AssemblyReference.cache
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.Form1.resources
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.Properties.Resources.resources
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.csproj.GenerateResource.cache
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.csproj.CoreCompileInputs.cache
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.exe
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.pdb
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\EPPlus.dll
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\EPPlus.Interfaces.dll
+E:\project C#\Cost_Software\Cost_Software\bin\Debug\EPPlus.xml
+E:\project C#\Cost_Software\Cost_Software\obj\Debug\Cost_Software.csproj.CopyComplete
